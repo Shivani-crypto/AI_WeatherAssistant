@@ -1,3 +1,4 @@
+To get open application open this link 'https://ai-weatherassistant-1.onrender.com/'   --->my application opens
 This project aims to:
 
 1️⃣ Build an AI system that can understand natural language queries.
