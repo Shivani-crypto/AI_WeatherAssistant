@@ -1,0 +1,12 @@
+#1.install packages first:
+pip install streamlit
+pip install openai
+pip install langchain
+pip install fastapi
+pip install uvicorn
+pip install requests
+
+
+#2.open cmd and enter directory then we are in code enviromnent now enter command as 'streamlit run app.py' to start application..
+
+#3. now after opening application 'Ask something (example: weather in Hyderabad) '  to get result.
