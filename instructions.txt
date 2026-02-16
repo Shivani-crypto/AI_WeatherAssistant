@@ -1,10 +1,10 @@
 #1.install packages first:
-pip install streamlit
-pip install openai
-pip install langchain
-pip install fastapi
-pip install uvicorn
-pip install requests
+streamlit
+openai
+langchain
+fastapi
+uvicorn
+requests
 
 
 #2.open cmd and enter directory then we are in code enviromnent now enter command as 'streamlit run app.py' to start application..
